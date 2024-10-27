@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lifecycle_Activity</string>
+    <string name="text_hello">Hello World</string>
+    <string name="onCreate">onCreate: Inicializa a Activity.</string>
+    <string name="onStart">onStart: Activity está prestes a ser visível.</string>
+    <string name="onResume">onResume: Activity está visível e em primeiro plano.</string>
+    <string name="onPause">onPause: Activity está parcialmente visível.</string>
+    <string name="onStop">onStop: Activity não está mais visível.</string>
+    <string name="onRestart">onRestart: Activity está sendo reiniciada.</string>
+    <string name="onDestroy">onDestroy: Activity está sendo destruída.</string>
+</resources>
